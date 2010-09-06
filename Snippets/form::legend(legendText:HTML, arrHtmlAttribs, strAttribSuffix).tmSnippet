@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>form::legend(${1:legendText/HTML}${2:, array(arrHtmlAttribs)}${3:, strAttribSuffix})</string>
+	<key>name</key>
+	<string>form::legend(legendText/HTML, arrHtmlAttribs, strAttribSuffix)</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>kleg</string>
+	<key>uuid</key>
+	<string>0E5841A3-508A-4AFB-A539-A2CCF82B4B94</string>
+</dict>
+</plist>

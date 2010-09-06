@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>form::button(${1:strName/attribArray}${2:, strVal}${3:, strAttribSuffix})</string>
+	<key>name</key>
+	<string>form::button(strName/attribArray, strVal, strAttribSuffix)</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>kbutt</string>
+	<key>uuid</key>
+	<string>C91E0275-3FD1-40D1-9B82-92B488FB7F07</string>
+</dict>
+</plist>

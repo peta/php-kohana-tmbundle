@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>form::close_fieldset()</string>
+	<key>name</key>
+	<string>form::close_fieldset()</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>klosef</string>
+	<key>uuid</key>
+	<string>7CC27892-2E49-41A1-B8C5-B5DCC66CDFEE</string>
+</dict>
+</plist>

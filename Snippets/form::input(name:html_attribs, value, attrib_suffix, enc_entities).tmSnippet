@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>form::input(${1:strName/arrHTMLAttribs}, ${2:strValue}, ${3:strAttribSuffix}, ${4:TRUE})</string>
+	<key>name</key>
+	<string>form::input(name/html_attribs, value, attrib_suffix, enc_entities)</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>kinput</string>
+	<key>uuid</key>
+	<string>B753691A-F0EF-426A-9AB4-DE297DE03D64</string>
+</dict>
+</plist>

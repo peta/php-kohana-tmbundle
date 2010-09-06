@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>form::open(\$${1:URI}, \$${2:arrHtmlAttribs}, \$${3:arrHiddenParams})</string>
+	<key>name</key>
+	<string>form::open(URI*, html_array*, hidden_params*)</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>kopen</string>
+	<key>uuid</key>
+	<string>E010CC51-71F3-4C34-8F22-4AB4515A3BEA</string>
+</dict>
+</plist>

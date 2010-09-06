@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>form::radio(${1:strName/array()}${2:, strVal}${3:, TRUE}${4:, strAttribSuffix})</string>
+	<key>name</key>
+	<string>form::radio(strName/attribArray, strVal, isSelected, strAttribSuffix)</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>kradio</string>
+	<key>uuid</key>
+	<string>73772DE0-BEC2-47D1-A588-382818F0209D</string>
+</dict>
+</plist>

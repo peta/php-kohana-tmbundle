@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>form::checkbox(${1:strName/array()}${2:, strVal}${3:, TRUE}${4:, strAttribSuffix})</string>
+	<key>name</key>
+	<string>form::checkbox(name/html_attribs, value, isChecked, attrib_suffix)</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>kcheck</string>
+	<key>uuid</key>
+	<string>632A9202-AB77-4D76-95DA-C9D8D4DD8DFF</string>
+</dict>
+</plist>

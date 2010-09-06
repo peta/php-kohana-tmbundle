@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>form::hidden(${1:strName/array()}${2:, strVal})</string>
+	<key>name</key>
+	<string>form::hidden(name/arrNameVal, val)</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>khidden</string>
+	<key>uuid</key>
+	<string>ABAFF728-66AA-4637-9304-5A9DAB020E2D</string>
+</dict>
+</plist>
