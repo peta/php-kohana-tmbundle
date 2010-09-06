@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;?= Form::label('form-${1/[[:alpha:]]+|( )/(?1:_:\L$0)/g}', '$4') ?&gt;
+&lt;?= Form::input('$2', '$3', array('id'=&gt;'form-${1:$TM_SELECTED_TEXT}')) ?&gt;
+$5</string>
+	<key>name</key>
+	<string>Form::input+label</string>
+	<key>tabTrigger</key>
+	<string>kinputl</string>
+	<key>uuid</key>
+	<string>3184FFD8-A432-41ED-A4BC-06B95221D00B</string>
+</dict>
+</plist>

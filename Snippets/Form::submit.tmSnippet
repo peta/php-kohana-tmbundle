@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;?= Form::submit('$1', '$2'${3:, array()}) ?&gt;
+$4</string>
+	<key>name</key>
+	<string>Form::submit</string>
+	<key>tabTrigger</key>
+	<string>ksubmit</string>
+	<key>uuid</key>
+	<string>DB77C8FE-7A78-42C6-944D-A289D05A5608</string>
+</dict>
+</plist>

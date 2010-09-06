@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;?= Form::open('${1:$TM_SELECTED_TEXT}'${2:, array()}) ?&gt;
+	$3
+&lt;?= Form::close() ?&gt;
+</string>
+	<key>name</key>
+	<string>Create form</string>
+	<key>tabTrigger</key>
+	<string>kform</string>
+	<key>uuid</key>
+	<string>18134DBA-20FC-4682-A22C-499367C5662B</string>
+</dict>
+</plist>
